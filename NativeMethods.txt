@@ -1,0 +1,8 @@
+HWND
+FindWindow
+FindWindowEx
+SendMessageTimeout
+SEND_MESSAGE_TIMEOUT_FLAGS
+EnumWindows
+SetParent
+WNDENUMPROC
